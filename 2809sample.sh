@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "What's your name?"
+echo "What's your name !"
